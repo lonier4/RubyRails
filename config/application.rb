@@ -21,6 +21,6 @@ module Splurty
     config.assets.paths << "#{Rails.root}/app/assets/images"
     config.assets.paths << "#{Rails.root}/vendor/assets/images"
     # Precompile additional assets
-    config.assets.precompile += %w( .svg .eot .woff .ttf .jpeg vendor/assets/images/*)
+    config.assets.precompile += %w( .svg .eot .woff .ttf .jpeg vendor/assets/images/me_2.jpeg)
   end
 end
