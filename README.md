@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Splurty
 
-Things you may want to cover:
+Bootstrap / HTML / CSS / postgreSQL / Ruby - Ruby on Rails
 
-* Ruby version
+Splurty is an application that allows users to generate random travel quotes.
 
-* System dependencies
+The application stores the quotes and user data using a postgreSQL database.
 
-* Configuration
+For front end design the application uses the bootstrap grid system. Additional styling for colors were plucked from www.colorpicker.com and fonts from www.fontsquirrel.com.
 
-* Database creation
+Functionality to add a form for users to add quotes was accomplished with the SimpleForm gem and a bootstrap modal.
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Validation was introduced into the model to avoid invalid user data inputs such as character limits and empty submissions.
