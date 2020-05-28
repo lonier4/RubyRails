@@ -2,7 +2,7 @@
 
 # Splurty
 
-Bootstrap / HTML / CSS / postgreSQL / Ruby - Ruby on Rails
+### Bootstrap / HTML / CSS / postgreSQL / Ruby - Ruby on Rails
 
 Splurty is an application that allows users to generate random travel quotes.
 
